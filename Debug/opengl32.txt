@@ -1,0 +1,5 @@
+[INFO]: DLL_PROCESS_ATTACH
+[CALL]: glBegin
+[CALL]: glTest
+[CALL]: glEnd
+[INFO]: DLL_PROCESS_DETACH
